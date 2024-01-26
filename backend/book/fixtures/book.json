@@ -1,0 +1,49 @@
+[
+  {
+    "model": "book.Book",
+    "pk": 1,
+    "fields": {
+      "title": "title2",
+      "description": "this is a test description"
+    }
+  },
+  {
+    "pk": 2,
+    "fields": {
+      "title": "title2",
+      "description": "this is a test description"
+    }
+  },
+  {
+    "model": "book.Book",
+    "pk": 3,
+    "fields": {
+      "title": "title2",
+      "description": "this is a test description"
+    }
+  },
+  {
+    "model": "book.Book",
+    "pk": 4,
+    "fields": {
+      "title": "title2",
+      "description": "this is a test description"
+    }
+  },
+  {
+    "model": "book.Book",
+    "pk": 5,
+    "fields": {
+      "title": "title2",
+      "description": "this is a test description"
+    }
+  },
+  {
+    "model": "book.Book",
+    "pk": 6,
+    "fields": {
+      "title": "title2",
+      "description": "this is a test description"
+    }
+  }
+]
